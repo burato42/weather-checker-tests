@@ -1,0 +1,17 @@
+{
+  "name": "weather-checker-tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "^5.1.0",
+    "selenium-webdriver": "4.0.0-alpha.1",
+    "moment": "~2.24.0",
+    "chromedriver": "~2.46.0"
+  }
+}
